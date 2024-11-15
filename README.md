@@ -20,6 +20,8 @@ Barcelona
 - N. Lopez
 - R. Belliard
 - E. Garcia-Failde
+- D. Lewanski
+- S. Oukassi
 
 propose to:
 Marta Mazzocco, Danilo, Alesandro, Miranda Chen, Federico...
